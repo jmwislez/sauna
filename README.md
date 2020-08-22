@@ -1,5 +1,10 @@
 # Building an outside sauna from scratch
 
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
+
 ## What this repository provides
 
 In this repository, you'll find 3D designs for an external sauna I built, as well as for a shower.  It also provides materials and costs (2013 in Belgium), as well as snapshots of the design and pictures during building.
@@ -8,7 +13,11 @@ In this repository, you'll find 3D designs for an external sauna I built, as wel
 
 The sauna was to be installed outside, under an existing 2.2m high 3x3m hood of a garden shed.  Hence, there is no roof as part of the sauna design. A stabilized platform was already available.  
 
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/sauna%20v3%20-%20available%20volume.png" width="600px">
+
 The available volume under the hood was the main driving factor for the dimensions.  Within these limitations, I searched for an optimal layout with minimal inner dimensions (to reduce the volume and hence heating costs), and considering anthropometric dimensional data (95th percentile).  The sizes were then fine-tuned to the available wood sizes.  I am quite satisfied with the selected layout, as the sauna is comfortable and makes good use of the available space.
+
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/sauna%20v3%20-%20internals.png" width="600px">
 
 For the height, this meant one bench at 42cm height above the sauna floor (typical ergonomic sitting height), one at 84cm (to sit with feet on the lower bench), and then a sitting height of at least 100cm (95th percentile) between the top bench and the roof - I ended up at 104cm.  Given the limitation in the vertical space, I had to limit the floor and ceiling isolation thickness to 10cm only.  Total external height is 213cm, total internal height is 188cm.
 
