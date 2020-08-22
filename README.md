@@ -1,6 +1,7 @@
 # Building an outside sauna from scratch
 
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="300px">
+
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
 
 ## What this repository provides
@@ -38,7 +39,7 @@ These are the layers for the walls (from inside to outside), totalling 21cm:
 
 For reasons of accessibility, the top and bottom structures were fully outfitted with reflective layer, glasswool and vapour shield before installation, while the side walls were outfitted once installed.
 
-# The heating system
+## The heating system
 
 For 100 euro I bought a second hand 6 kW electric heater, a controller with sensor, a light, two headrests, a wooden bucket and a wooden spoon.
 
