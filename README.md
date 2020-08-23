@@ -43,8 +43,7 @@ For reasons of accessibility, the top and bottom structures were fully outfitted
 
 The benches are based on solid beams anchored to the main skeleton structure using big screws.  The benches are made of Abachi-wood.  This is an excellent choice, but be careful when working that wood: it generates a very fine dust which gives headaches that last for days.  Work outside, or with a mask.
 
-<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" width="300px">
-<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" width="450px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
 
 ## The heating system
 
@@ -53,6 +52,10 @@ For 100 euro I bought a second hand 6 kW electric heater, a controller with sens
 For a 6 kW heater (any heater above 4.5 kW), a three phase electricity installation is needed.  Check what is needed to do this legally and safely at your place.  I installed an underground EXVB 5G2.5mm2 cable in a red plastic tube at a depth of 60cm, which led to a separate fuse board with a 30mA differential fuse (sauna is a wet zone) and a 3-phase 16A overcurrent fuse.  The cables that led power into the sauna (for the heater and the light) was a SIHF cable given the heat endured in a sauna.
 
 Be sure to include ventilation. Foresee a wide slit underneath the heater for air input, and an exit halfway the opposite wall.
+
+## The shower
+
+Given the absence of a sewer connection, the water needs to infiltrate into the ground.  Also, I wanted to be able to easily empty or lower the levels in the water pipes in and above the ground in case of frost.  Finally, I wanted to have the possibility for having sun-heated water.  All this ended up in a way too complex set of pipes and valves (which I can draw and post if there is interest), but it works!
 
 ## Using the sauna
 
