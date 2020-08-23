@@ -1,12 +1,12 @@
 # Building an outside sauna from scratch
 
-<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/DSC_2306%20-%20sauna%20finished.JPG" width="300px">
 
-<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" width="300px">
 
 ## What this repository provides
 
-In this repository, you'll find 3D designs for an external sauna I built, as well as for a shower.  It also provides materials and costs (2013 in Belgium), as well as snapshots of the design and pictures during building.  Through cost-effective procurement, I was able to limit the material costs to about 2000 euro, excluding electric installation.
+In this repository, you'll find 3D designs (FreeCAD) for an external sauna I built, as well as for a shower.  It also provides materials and costs (2013 in Belgium), as well as snapshots of the design and pictures during building.  Through cost-effective procurement, I was able to limit the material costs to about 2000 euro, excluding electric installation.
 
 ## The layout and dimensions
 
