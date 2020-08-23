@@ -6,7 +6,7 @@
 
 ## What this repository provides
 
-In this repository, you'll find 3D designs (FreeCAD) for an external sauna I built, as well as for a shower.  It also provides materials and costs (2013 in Belgium), as well as snapshots of the design and pictures during building.  Through cost-effective procurement, I was able to limit the material costs to about 2000 euro, excluding electric installation.
+In this repository, you'll find a 3D design (FreeCAD) for an external sauna I built in 2013, as well as for an outside shower I added recently.  It also provides some materials and costs overviews for the sauna (2013 in Belgium), as well as snapshots of the design and pictures taken during building.  Through cost-effective procurement, I was able to limit the material costs to about 2000 euro.
 
 ## The layout and dimensions
 
@@ -14,34 +14,50 @@ The sauna was to be installed outside, under an existing 2.2m high 3x3m hood of 
 
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/sauna%20v3%20-%20available%20volume.png" width="800px">
 
-The available volume under the hood was the main driving factor for the dimensions.  Within these limitations, I searched for an optimal layout with minimal inner dimensions (to reduce the volume and hence heating costs), and considering anthropometric dimensional data (95th percentile).  The sizes were then fine-tuned to the available wood sizes.  I am quite satisfied with the selected layout, as the sauna is comfortable and makes good use of the available space.
+The available volume under the hood was the main driving factor for the dimensions.  Within these limitations, I searched for an optimal layout with minimal inner dimensions (to reduce the volume and hence heating costs), and considering anthropometric dimensional data (95th percentile) for ergonomy.  The sizes were then fine-tuned to the available wood and materials sizes.  I am quite satisfied with the selected layout, as the sauna is comfortable and makes good use of the available space.
 
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/sauna%20v3%20-%20internals.png" width="800px">
 
 For the height, this meant one bench at 42cm height above the sauna floor (typical ergonomic sitting height), one at 84cm (to sit with feet on the lower bench), and then a sitting height of at least 100cm (95th percentile) between the top bench and the roof - I ended up at 104cm.  Given the limitation in the vertical space, I had to limit the floor and ceiling isolation thickness to 10cm only.  Total external height is 213cm, total internal height is 188cm.
 
-For the internal width, I took 2m lying length (95th percentile), and for the depth 1.8m (50th percentile, and fine for me).  What I forgot is to consider that two persons lying down will collide in the corner.  Hence, if you have room, take some extra margin.
+For the internal width, I took 2m lying length (95th percentile), and for the depth 1.8m (50th percentile, and fine for me), which conveniently allowed me to have 3 standard-sized segments in both side walls.  What I forgot is to consider that two persons lying down will collide in the corner.  Hence, if you have room, take some extra margin.
 
-As for the walls, they have a total thickness of 21cm.
+The sauna is resting on the base beams of the terrace, to allow for air to circulate in the cavity in the walls, in order to keep them dry.
 
 ## Construction
 
-The construction is based on a wood skeleton, which was assembled wall by wall in a workshop.  
+The construction is based on a wood skeleton, with 58cm in between the beams (for fitting 60cm rockwool).  This was roughly the manufacturing and assembly sequence:
+* Assembly of the terrace, with 7 parallel base beams, and tongue-and-groove planks around the area where the sauna will be installed (all treated with Xyladecor).
+* Covering the area of where the sauna will be with 1cmx1cm chicken wire, against mice.
+* In a workshop, assembly of the skeletons for all 6 faces of the sauna.
+* In the workshop, full outfitting of the bottom and top skeletons with OSB plates, electrical tubing and wiring, and rockwool with reflective vapourshield. Also mounting of the vapour permeable breathable membrane on all wood sides.
+* Positioning of the bottom assembly onto the terrace.
+* Installation of the skeletons of the side walls.
+* Installation of the top assembly onto the side walls.
+* Oufitting of the side walls with rockwool, making the vapourshield airtight with aluminium tape (to the extent possible).
+* Installation of electricity tubing and wiring in the side walls.
+* Closing the side walls with MDF plates, being mindful of the external connections that need to be made (to sauna controller and audio amplifier).
+* Wrapping the vapour permeable breathable membrane around the side walls, and fully attaching it with staples.
+* Installing the floor wood, as wel as the inner walls (nordic pine sauna-wood - attached with mounting clips), being mindful of the internal connections that need to be made (to light, heater, heat sensor and speakers).
+* Installing the skeletons for the benches.
+* Installing the heater, sensor, and controller.
+* Installing the abachi wood for the benches and backrests, and the heater protection.
+* Installing the door (assembled in workshop).
+* First heat for the sauna! :-)
+* Installing the slating battens and the external wood finishing (treated with Xyladecor).
 
-These are the layers for the walls (from inside to outside), totalling 21cm:
-* Internal wood finishing, composed of 95mm x 14mm tongue-and-groove planks [NL: saunaschroten] (second choice nordic spruce, dried for use in sauna), attached with mounting clips [NL: profielhoutklemmen].
+The walls are composed of the following layers (from inside to outside), totalling 21cm:
+* Internal wood finishing, composed of 95mm x 14mm tongue-and-groove planks [NL: saunaschroten] (second choice nordic spruce, specially dried for use in sauna), attached with mounting clips [NL: profielhoutklemmen].
 * Reflective vapourshield (integrated with the glasswool), finished with aluminium tape.
 * 60cm wide 15cm thick glasswool (Isover) with integrated reflective vapourshield, carried by the wood skeleton.
 * Thin MDF plates for covering the glasswool.
 * Vapour permeable breathable membrane [NL: dampscherm] (Pro Clima SOLITEX WA).
 * Air layer (slating battens as spacers [NL: panlatten]).
-* External wood finishing, composed of 170mm x 19mm tongue-and-groove planks [NL: schroten], treated for outdoor use with Xyladecor.
-
-For reasons of accessibility, the top and bottom structures were fully outfitted with reflective layer, glasswool and vapour shield before installation, while the side walls were outfitted once installed.
+* External wood finishing, composed of second choice 170mm x 19mm tongue-and-groove planks [NL: schroten], treated for outdoor use with Xyladecor.
 
 ## Benches 
 
-The benches are based on solid beams anchored to the main skeleton structure using big screws.  The benches are made of Abachi-wood.  This is an excellent choice, but be careful when working that wood: it generates a very fine dust which gives headaches that last for days.  Work outside, or with a mask.
+The benches are based on solid beams anchored to the main skeleton structure using big screws.  The benches are made of Abachi-wood.  This is an excellent choice, but be careful when working that wood: it generates a very fine dust which gives headaches that last for days.  Work outside, or with a good dust mask.
 
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" width="450px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
 
