@@ -39,6 +39,13 @@ These are the layers for the walls (from inside to outside), totalling 21cm:
 
 For reasons of accessibility, the top and bottom structures were fully outfitted with reflective layer, glasswool and vapour shield before installation, while the side walls were outfitted once installed.
 
+## Benches 
+
+The benches are based on solid beams anchored to the main skeleton structure using big screws.  The benches are made of Abachi-wood.  This is an excellent choice, but be careful when working that wood: it generates a very fine dust which gives headaches that last for days.  Work outside, or with a mask.
+
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px">
+
 ## The heating system
 
 For 100 euro I bought a second hand 6 kW electric heater, a controller with sensor, a light, two headrests, a wooden bucket and a wooden spoon.
