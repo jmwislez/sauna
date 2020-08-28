@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/DSC_2306%20-%20sauna%20finished.JPG" width="300px">
 
-<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" width="300px">
+<img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" height="400px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" height="400px"> <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" height="400px">
 
 ## What this repository provides
 
@@ -70,16 +70,16 @@ Just to be clear: these are the layers of the floor, from inside to outside: woo
 
 The layer build-up is also visible in the building pictures.
 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0185%20-%20outfitting%20roof%20plate%20with%20isolation.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0185%20-%20outfitting%20roof%20plate%20with%20isolation.JPG" width="200px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0186%20-%20outfitting%20floor%20plate%20with%20electrical%20connections.jpg"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0186%20-%20outfitting%20floor%20plate%20with%20electrical%20connections.jpg" width="200px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0194%20-%20floor%20plate%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0194%20-%20floor%20plate%20installed.JPG" width="200px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0197%20-%20installing%20side%20walls.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0197%20-%20installing%20side%20walls.JPG" width="200px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" width="200px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0208%20-%20installing%20isolation%20(external%20view).JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0208%20-%20installing%20isolation%20(external%20view).JPG" width="113px"></a>
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" width="113px"></a>
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0214%20-%20protection%20plate%20for%20isolation.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0214%20-%20protection%20plate%20for%20isolation.JPG" width="200px"></a>
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0230%20-%20installing%20internal%20wood.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0230%20-%20installing%20internal%20wood.JPG" width="200px"></a>
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" width="200px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0185%20-%20outfitting%20roof%20plate%20with%20isolation.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0185%20-%20outfitting%20roof%20plate%20with%20isolation.JPG" height="200px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0186%20-%20outfitting%20floor%20plate%20with%20electrical%20connections.jpg"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0186%20-%20outfitting%20floor%20plate%20with%20electrical%20connections.jpg" height="200px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0194%20-%20floor%20plate%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0194%20-%20floor%20plate%20installed.JPG" height="200px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0197%20-%20installing%20side%20walls.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0197%20-%20installing%20side%20walls.JPG" height="200px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0201%20-%20skeleton%20installed.JPG" height="200px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0208%20-%20installing%20isolation%20(external%20view).JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0208%20-%20installing%20isolation%20(external%20view).JPG" height="200px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0210%20-%20installing%20isolation%20(internal%20view).JPG" height="200px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0214%20-%20protection%20plate%20for%20isolation.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0214%20-%20protection%20plate%20for%20isolation.JPG" height="200px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0230%20-%20installing%20internal%20wood.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0230%20-%20installing%20internal%20wood.JPG" height="200px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0248%20-%20covered%20with%20moist%20protection.JPG" height="200px"></a>
 
 ## Benches 
 
@@ -87,14 +87,14 @@ The benches are based on solid beams anchored to the main skeleton structure usi
 
 While 60cm width is enough for lying down, benches of 70cm are more comfortable. But for sitting down on a bench, 60cm is more comfortable than 70cm. This, and to limit the depth of the sauna, is why the lower bench extends 10cm under the top bench, and why the side bench is 60cm wide. 
 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" width="450px"></a> 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" width="300px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0233%20-%20frames%20for%20benches.JPG" height="450px"></a> 
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0244%20-%20benches%20installed.JPG" height="450px"></a>
 
 ## Door
 
 TBW
 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0223%20-%20door%20internal%20frame.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0223%20-%20door%20internal%20frame.JPG" width="200px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20frame.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20frame.png" width="285px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20internals.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20internals.png" width="285px"></a>  
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0223%20-%20door%20internal%20frame.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/IMG_0223%20-%20door%20internal%20frame.JPG" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20frame.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20frame.png" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20internals.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/door%20v2%20-%20internals.png" height="150px"></a>  
 
 ## The heating system
 
@@ -109,7 +109,7 @@ Be sure to include ventilation. Foresee a wide slit underneath the heater for ai
 Given the absence of a sewer connection, the water needs to infiltrate into the ground.  Also, I wanted to be able to easily empty or lower the levels in the water pipes in and above the ground in case of frost.  Finally, I wanted to have the possibility for having sun-heated water.  All this ended up in a way too complex set of pipes and valves (which I can draw and post if there is interest), but it works!
 
 
-<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" width="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png" width="300px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png" width="300px"></a>
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png" height="150px"></a>
 
 ## Using the sauna
 
@@ -133,6 +133,5 @@ I also attempted to have a "bio-sauna" effect by using a WiFi-controlled RGB LED
 * The wooden door is nice, but throughout seasons it needs retuning to close well and open easily.
 * After I applied the outer wood layer (one year later), I found out the door would not open further than 90 degrees any more.
 * In order to limit the volume of the sauna (and thus improving heating time and reducing power consumption), the volume under the benches could be sealed off.  This volume is anyway totally lost, and in my case only used for rarely used speakers.  Only the ventilation outlet should then be moved above the benches. 
-
 
 <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/DSC_2306%20-%20sauna%20finished.JPG"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/DSC_2306%20-%20sauna%20finished.JPG" width="800px"></a> 
