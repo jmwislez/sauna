@@ -113,9 +113,19 @@ Given the absence of a sewer connection, the water needs to infiltrate into the 
 
 ## Using the sauna
 
-The sauna is comfortable for 2-3 people lying down, and up to 6-7 people sitting.  
+The sauna is comfortable for 2-3 people lying down, and can fit up to 6-7 people sitting.  
 
-Heating at 6 kW takes about 45-60 minutes, after which the heater duty cycle is around 50%.
+Heating at 6 kW takes about 45-60 minutes, after which the heater duty cycle is around 50%. An example profile is shown below.
+
+  Temperature profile (degC)<br />
+  <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/sauna-temperature.png"><br />
+ 
+  Humidity profile (% RH)<br />
+  <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/sauna-humidity.png"><br />
+
+  Power consumption profile (on top of other domestic use)<br />
+  <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/sauna-consumption.png"><br />
+
 
 ## Goodies
 
