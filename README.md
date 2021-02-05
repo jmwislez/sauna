@@ -123,7 +123,7 @@ Heating at 6 kW takes about 45-60 minutes, after which the heater duty cycle is 
   Humidity profile (% RH)<br />
   <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/sauna-humidity.png"><br />
 
-  Power consumption profile (on top of other domestic use)<br />
+  Power consumption profile (W) (on top of other domestic use)<br />
   <img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/sauna-consumption.png"><br />
 
 
