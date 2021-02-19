@@ -106,10 +106,12 @@ Be sure to include ventilation. Foresee a wide slit underneath the heater for ai
 
 ## The shower
 
-Given the absence of a sewer connection, the water needs to infiltrate into the ground.  Also, I wanted to be able to easily empty or lower the levels in the water pipes in and above the ground in case of frost.  Finally, I wanted to have the possibility for having sun-heated water.  All this ended up in a way too complex set of pipes and valves (which I can draw and post if there is interest), but it works!
+Given the absence of a sewer connection, the water needs to infiltrate into the ground.  Also, I wanted to be able to easily empty or lower the levels in the water pipes in and above the ground in case of frost.  Finally, I wanted to have the possibility for having sun-heated water.  All this ended up in a way too complex set of pipes and valves (as shown below), but it works!
 
 
 <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/pictures/2020-05-10%2015.40.44%20-%20shower.jpg" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20full.png" height="150px"></a> <a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/shower%20v2%20-%20in%20ground.png" height="150px"></a>
+
+<a href="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/water_tubing.png"><img src="https://raw.githubusercontent.com/jmwislez/sauna/master/snapshots/water_tubing.png" height="500px"></a>
 
 ## Using the sauna
 
